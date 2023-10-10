@@ -1,0 +1,13 @@
+image collage:
+1. en la tool el nombre del contenedor es collage 1 y en figma  image collage 1,tambien hay diferencia en el add item
+2. como se mostraria el collage cuando esta seteado con 1 per row y tengo varios items agregados
+4. confirmar como se veria el componente en dos columnas cuando solo tiene un item y yo cambio maximum image por row de 2 a 4, no hace nada ni reserva espacio o 
+5 asumiendo que los tec
+
+Then Only one item is added per row  
+
+And Every row  contains an upper label indicating its order,  i.e:  First Row, Second Row etc.
+
+Preguntas PDF componen
+
+como funciona el default page number, aria label y aria live?
